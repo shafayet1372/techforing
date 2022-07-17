@@ -1,0 +1,49 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: #ffffff;
+}
+.css-68a3c3 {
+  max-width: 100% !important;
+}
+.css-6tfq6 {
+  box-shadow: none !important;
+}
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root {
+  flex-direction: column !important;
+  align-items: start !important;
+}
+
+.MuiCollapse-vertical {
+  margin-bottom: 10px !important;
+  background-color: #f5f5f5 !important ;
+  color: rgba(0, 0, 0, 0.6) !important;
+  border-radius: 6px !important;
+  /* border: 2px solid rgba(0, 0, 0, 0.2) !important; */
+}
+.MuiAccordionSummary-root {
+  background-color: #f5f5f5 !important ;
+  /* border: 2px solid rgba(0, 0, 0, 0.2) !important; */
+}
+/* .MuiCollapse-wrapper {
+  border: 2px solid rgba(0, 0, 0, 0.2) !important;
+} */
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root {
+  box-shadow: none !important;
+}
+/* .css-pwcg7p-MuiCollapse-root {
+  border: 2px solid rgba(0, 0, 0, 0.2) !important;
+} */
+.MuiPaper-rounded {
+  /* margin-bottom: 10px !important; */
+}
+
+.MuiCollapse-vertical {
+  margin-bottom: 0px !important;
+}
+/* .Mui-expanded {
+  border: 2px solid rgba(0, 0, 0, 0.2) !important;
+} */
+.MuiAccordion-gutters {
+  border: 2px solid rgba(0, 0, 0, 0.2) !important;
+}
