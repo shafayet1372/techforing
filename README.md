@@ -11,6 +11,8 @@
 * JWT Authentication
 * Express js for Api endpoints
 ## How to Run The Project On Local Machine
+clone the repositary on your machine and then
+
 step1:
 * Go to Server folder
 * run the below command  in the server folder 
